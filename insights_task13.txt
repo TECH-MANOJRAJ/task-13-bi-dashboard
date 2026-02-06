@@ -1,0 +1,21 @@
+Task 13 – Dashboard Insights
+
+1. The Technology category is the leading contributor to total sales and profit, making it the primary driver of overall business performance.
+
+2. The West region records the highest sales compared to other regions, indicating a strong and stable market presence.
+
+3. Sales trends show steady growth over time, with noticeable peaks in the final quarter, suggesting seasonal increases in demand.
+
+4. A small group of top-performing products contributes a significant share of total revenue, highlighting the importance of key product lines.
+
+5. Some regions and categories show comparatively lower performance, presenting opportunities for targeted improvement strategies.
+
+6. Profit margins remain positive across major segments, indicating efficient cost and pricing management.
+
+7. The dashboard reveals clear performance differences between categories, helping prioritize investment in high-growth areas.
+
+8. Consistent sales growth suggests strong customer demand and effective business operations.
+
+9. Interactive filtering shows that performance varies by region and time period, emphasizing the value of localized strategies.
+
+10. Overall, the company demonstrates balanced growth with strong revenue drivers and opportunities for optimization in underperforming segments.
